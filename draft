@@ -1,0 +1,25 @@
+Technology used:
+Laravel 6,7,8, Php, Javascript, Jquery, Ajax, Bootstrap...
+Features:
+Validation:
+1) Done for all forms
+2) Personalized error messages fades in slowly
+Authentication:
+1) Register/login
+Admin panel:
+Basically you can create all website using this admin panel :)
+1) Accessible only to admins
+2) Customized appearance
+3) Ability to change password, current password checked while typing
+4) Ability update info, upload image, view image
+5) Image automatically gets resized
+6) Ability to add, edit, delete sections
+6) Ability to add, edit, delete categories
+6) Ability to add, edit, delete subcategories
+8) In categories table you see to sections and categories to which subcategory belongs
+7) Then selected section all active categories and subcategories for that level shows up
+7) While adding categories if some errors left already entered info stays, no need to retype everything
+8) Able to see, delete category image, image resized
+
+Last but not least, Security:
+CSRF, sanitizing, hashing, regex...

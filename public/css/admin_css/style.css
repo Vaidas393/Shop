@@ -1,0 +1,29 @@
+
+/* Sidebar foto and name */
+.user-panel img{
+  height: 90px;
+  width: 100px;
+}
+
+.info{
+  margin-top: 20px;
+}
+
+/* Category buttons */
+.categoryBtn,.productBtn{
+  max-width: 120px;
+  float: right;
+  display: inline-block;
+}
+
+.categoryImageDiv{
+  height: 70px;
+  width: 70px;
+  display: contents;
+}
+
+.categoryImg{
+  margin-top: 5px;
+  height: 80px;
+  width: 70px;
+}
